@@ -1,0 +1,2 @@
+# Laborator-POO-Szekely
+dsss
