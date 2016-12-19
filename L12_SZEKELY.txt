@@ -35,7 +35,7 @@ bool Stack<T>::push(const T& valoare)
  return false;
 }
 
-template<class T>
+%*template<class T>
 bool Stack<T>::pop(T& valoare)
 {
  if(!isEmpty())
@@ -44,7 +44,7 @@ bool Stack<T>::pop(T& valoare)
  return true;
  }
  return false; 
-}
+}*%
 
 
 
